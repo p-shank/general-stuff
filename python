@@ -6,3 +6,9 @@ Python:
   - tuples
   - set
   - list comprehension
+  - dictionaries
+  - destructuring variables
+  - functions
+  - function arguments and parameters
+  - lambda functions
+  - dictionary comprehension
