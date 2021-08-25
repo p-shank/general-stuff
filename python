@@ -12,3 +12,6 @@ Python:
   - function arguments and parameters
   - lambda functions
   - dictionary comprehension
+  - unpacking argument
+  - unpacking keyword argument
+  - oop in python
