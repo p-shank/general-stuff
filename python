@@ -19,3 +19,17 @@ Python:
   - __repr__()
   - @classmethod 
   - @staticmethod
+  - inheritance in python
+  - compostion in python
+  - type hinting
+  - imports in python
+  - __name__ variable
+  - relative import
+  - errors in python
+  - cutom errors classes
+  - first classs function
+  - decorators
+  - @ synts for dec0rators
+  - decorating function with parameter
+  - decorators with parameters
+  - mutability in python
