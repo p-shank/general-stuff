@@ -15,3 +15,7 @@ Python:
   - unpacking argument
   - unpacking keyword argument
   - oop in python
+  - __str__() 
+  - __repr__()
+  - @classmethod 
+  - @staticmethod
