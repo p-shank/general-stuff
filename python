@@ -11,6 +11,8 @@ Python:
   - functions
   - function arguments and parameters
   - lambda functions
+  - map()
+  - filter()
   - dictionary comprehension
   - unpacking argument
   - unpacking keyword argument
