@@ -5,3 +5,8 @@ Web:
   - what are endpoints ?
   - rest api standards
   
+Flask:
+  - flask fundamentals
+  - routing in flask
+  - flask restful
+  
