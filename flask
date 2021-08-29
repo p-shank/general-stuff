@@ -8,5 +8,6 @@ Web:
 Flask:
   - flask fundamentals
   - routing in flask
-  - flask restful
+  - flask restfull
+  - flask jwt
   
