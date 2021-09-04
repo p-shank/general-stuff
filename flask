@@ -13,4 +13,5 @@ Flask:
   - flask jwt
   - wsgi
   - sqlite3
+  - sql alchemy
   
