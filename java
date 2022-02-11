@@ -12,3 +12,7 @@ Java Servlet:
   - .service()
   - .destroy()
   - .jar vs .war files
+  - application framework
+  - inversion of control
+  - dependency injection
+  - application runners
