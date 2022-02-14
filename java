@@ -16,3 +16,5 @@ Java Servlet:
   - inversion of control
   - dependency injection
   - application runners
+  - seperation of concerns
+  - Persistent Components
